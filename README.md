@@ -4,4 +4,4 @@
 I build free, client-only AI tools. No servers, no login. Just browser magic.
 
 🔗 [appgenmaster.netlify.app](https://appgenmaster.netlify.app)
-<img src="URL_GAMBAR_ANDA" alt="Onic Costume Banner" width="100%">
+<img src="banner.png" alt="Onic Costume Banner" width="100%">
